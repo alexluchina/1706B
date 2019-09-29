@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:15:20:32 +0800] "GET /robots.txt HTTP/1.1" 404 971 http-bio-8080-exec-2 115
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:15:20:34 +0800] "GET / HTTP/1.1" 200 4943 http-bio-8080-exec-1 1239
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:15:20:34 +0800] "GET /css/style.css HTTP/1.1" 200 1903 http-bio-8080-exec-4 31
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:15:20:34 +0800] "GET /js/font-awesome-4.7.0/css/font-awesome.css HTTP/1.1" 200 37414 http-bio-8080-exec-3 59
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:15:20:34 +0800] "GET /js/jquery/jquery.min.js HTTP/1.1" 200 97163 http-bio-8080-exec-6 186
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:15:20:34 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-8 5
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:15:20:40 +0800] "GET /?pageNo=2 HTTP/1.1" 200 4591 http-bio-8080-exec-9 43
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:15:20:41 +0800] "GET /?pageNo=1 HTTP/1.1" 200 4943 http-bio-8080-exec-10 26
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:15:25:54 +0800] "GET / HTTP/1.1" 200 4943 http-bio-8080-exec-1 1326
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:15:26:02 +0800] "GET /showPlant?id=1 HTTP/1.1" 200 742 http-bio-8080-exec-2 110
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:15:26:02 +0800] "GET /js/font-awesome-4.7.0/css/font-awesome.min.css HTTP/1.1" 304 - http-bio-8080-exec-3 67
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:15:26:07 +0800] "GET /updatePlant?id=3 HTTP/1.1" 200 788 http-bio-8080-exec-4 115
